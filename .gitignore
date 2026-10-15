@@ -1,0 +1,7 @@
+# Không đẩy MP3 của bên thứ ba lên repository công khai khi chưa được cấp quyền.
+/audio/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
